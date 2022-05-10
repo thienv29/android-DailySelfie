@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name"> Daily Selfie</string>
+    <string name="open_camera">open_camera</string>
+</resources>
